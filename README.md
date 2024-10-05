@@ -2,7 +2,7 @@
 <h3 align="center">Felizmente desarrollador front end (Angular, Flutter)</h3>
 
 ## Acerca de mi
-  - 👨🏻‍💻 Desarrollador con mas de 4 años de experiencia
+  - 👨🏻‍💻 Desarrollador con mas de 6 años de experiencia
   - Varias aplicaciones publicadas en las tiendas de Google Play Store y App Store
   - Amante de la tecnología 📲 👾
   - Me gusta crear aplicaciones funcionales y también con un diseño unico y agradable 🤩 🎨
