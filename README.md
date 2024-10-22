@@ -21,5 +21,3 @@
 <br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manypark&show_icons=true&locale=en&layout=compact" alt="manypark" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manypark&show_icons=true&locale=en" alt="manypark" /></p>
