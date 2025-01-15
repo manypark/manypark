@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Manuel Maldonado</h1>
-<h3 align="center">Felizmente desarrollador front end (Angular, Flutter)</h3>
+<h3 align="center">Desarrollador front end (Angular, Flutter)</h3>
 
 ## Acerca de mi
   - 👨🏻‍💻 Desarrollador con mas de 6 años de experiencia
