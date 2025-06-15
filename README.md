@@ -2,10 +2,7 @@
 <h3 align="center">Desarrollador front end (Angular, Flutter)</h3>
 
 ## Acerca de mi
-  - 👨🏻‍💻 Desarrollador con mas de 6 años de experiencia
-  - Varias aplicaciones publicadas en las tiendas de Google Play Store y App Store
-  - Amante de la tecnología 📲 👾
-  - Me gusta crear aplicaciones funcionales y también con un diseño unico y agradable 🤩 🎨
+  Desarrollador Front-End con más de 6 años de experiencia en desarrollo web y móvil. Especializado en Angular y Flutter, con sólidos conocimientos en JavaScript, TypeScript, manejadores de estado (Riverpod, BLoC, Provider), WebSockets, APIs REST, Firebase y peticiones asíncronas. Apasionado por crear interfaces eficientes, escalables y centradas en el usuario, con enfoque en rendimiento, mantenibilidad y experiencia del usuario.
 
 <br>
 <h3 align="left">Contactame:</h3>
