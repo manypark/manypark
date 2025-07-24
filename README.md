@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador front end (Angular, Flutter)</h3>
 
 ## Acerca de mi
-  Desarrollador Front-End con más de 6 años de experiencia en desarrollo web y móvil. Especializado en Angular y Flutter, con sólidos conocimientos en JavaScript, TypeScript, manejadores de estado (Riverpod, BLoC, Provider), WebSockets, APIs REST, Firebase y peticiones asíncronas. Apasionado por crear interfaces eficientes, escalables y centradas en el usuario, con enfoque en rendimiento, mantenibilidad y experiencia del usuario.
+  Desarrollador Front-End con más de 7 años de experiencia en desarrollo web y móvil. Especializado en Angular y Flutter, con sólidos conocimientos en TypeScript y Dart, manejadores de estado (Riverpod, BLoC, Provider), WebSockets, APIs REST, Firebase y peticiones asíncronas. Apasionado por crear interfaces eficientes, escalables y centradas en el usuario, con enfoque en rendimiento, mantenibilidad y experiencia del usuario.
 
 <br>
 <h3 align="left">Contactame:</h3>
